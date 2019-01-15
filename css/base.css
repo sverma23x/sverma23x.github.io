@@ -93,6 +93,7 @@
 	#resume {
 		padding-top: 0rem;
 		padding-bottom: 0rem;
+		text-align:'justify';
 	}
 
 	#resume .resume-header {
